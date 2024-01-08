@@ -1,2 +1,2 @@
 # Binary-Search
-iterative and recursive methods
+iterative and recursive implementation of the BinarySearch function.
